@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: ""
-permalink: /news/
+permalink: /research/
 classes: wide
 author_profile: false
 ---
