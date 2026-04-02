@@ -2,7 +2,9 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
+layout: splash
+classes: wide
+author_profile: false
 ---
 
 (*corresponding author；#co-first author)
