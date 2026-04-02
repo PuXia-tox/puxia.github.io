@@ -5,9 +5,7 @@ permalink: /members/
 author_profile: true
 ---
 
-<h1>Principal Investigator</h1>
-
-<hr style="border: 2px solid #bbb;">
+<hr style="border: 1px solid #bbb;">
 
 <div style="display: flex; align-items: flex-start; gap: 30px;">
   <img src="/images/portrait.jpg" width="220">
@@ -19,11 +17,8 @@ author_profile: true
   </div>
 </div>
 
-<hr style="border: 2px solid #bbb;">
 
-<h1>Current Students</h1>
-
-<hr style="border: 2px solid #bbb;">
+<hr style="border: 1px solid #bbb;">
 
 <div style="display: flex; align-items: flex-start; gap: 30px;">
   <img src="/images/member_matthew.jpg" width="220">
@@ -35,7 +30,7 @@ author_profile: true
   </div>
 </div>
 
-<hr style="border: 2px solid #bbb;">
+<hr style="border: 1px solid #bbb;">
 
 <div style="display: flex; align-items: flex-start; gap: 30px;">
   <img src="/images/member_xing.jpg" width="220">
@@ -47,7 +42,7 @@ author_profile: true
   </div>
 </div>
 
-<hr style="border: 2px solid #bbb;">
+<hr style="border: 1px solid #bbb;">
 
 <div style="display: flex; align-items: flex-start; gap: 30px;">
   <img src="/images/member_oscar.jpg" width="220">
@@ -59,7 +54,7 @@ author_profile: true
   </div>
 </div>
 
-<hr style="border: 2px solid #bbb;">
+<hr style="border: 1px solid #bbb;">
 
 <div style="display: flex; align-items: flex-start; gap: 30px;">
   <img src="/images/member_zheng.jpg" width="220">
@@ -71,7 +66,7 @@ author_profile: true
   </div>
 </div>
 
-<hr style="border: 2px solid #bbb;">
+<hr style="border: 1px solid #bbb;">
 
 <h2>Alumni – Visiting Scholars and Students</h2>
 <ul>
