@@ -12,7 +12,7 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; gap: 30px;">
   <img src="/images/portrait.jpg" width="220">
   <div>
-    <h2>Pu Xia</h2>
+    <h2 style="font-size: 34px;">Pu Xia</h2>
     <p>Assistant Professor (2023–)</p>
     <p>School of Biosciences, University of Birmingham</p>
     <p>Email: p.xia@bham.ac.uk</p>
@@ -28,7 +28,7 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; gap: 30px;">
   <img src="/images/member_matthew.jpg" width="220">
   <div>
-    <h2>Matthew Barnard</h2>
+    <h2 style="font-size: 34px;">Matthew Barnard</h2>
     <p>PhD Student (2025–)</p>
     <p>Research: aquatic ecotoxicology, behavioural toxicology</p>
     <p>Email: mxb1245@student.bham.ac.uk</p>
@@ -40,7 +40,7 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; gap: 30px;">
   <img src="/images/member_xing.jpg" width="220">
   <div>
-    <h2>Xing Fan</h2>
+    <h2 style="font-size: 34px;">Xing Fan</h2>
     <p>PhD Student (2026–)</p>
     <p>Research: computational toxicology, high-throughput transcriptomics</p>
     <p>Email: xxf566@student.bham.ac.uk</p>
@@ -52,7 +52,7 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; gap: 30px;">
   <img src="/images/member_oscar.jpg" width="220">
   <div>
-    <h2>Oscar Milward</h2>
+    <h2 style="font-size: 34px;">Oscar Milward</h2>
     <p>PhD Student (2026–)</p>
     <p>Research: computational toxicology, qAOP, cross-species extrapolation</p>
     <p>Email: ocm117@student.bham.ac.uk</p>
@@ -64,7 +64,7 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; gap: 30px;">
   <img src="/images/member_zheng.jpg" width="220">
   <div>
-    <h2>Zheng Tang</h2>
+    <h2 style="font-size: 34px;">Zheng Tang</h2>
     <p>PhD Student (2026–)</p>
     <p>Research: organ-on-chip, neurotoxicology</p>
     <p>Email: zxt410@student.bham.ac.uk</p>
