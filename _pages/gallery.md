@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: ""
-permalink: /news/
+permalink: /gallery/
 classes: wide
 author_profile: false
 ---
