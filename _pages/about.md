@@ -7,27 +7,35 @@ redirect_from:
   - /about.html
 ---
 ## Welcome to the SHARP Lab
+<p align="center">
+<img src="/images/Group Photo-1.jpg" width="1000">
+</p>
 
-## From hidden clues to elegant views
+## *From hidden clues to elegant views.*
 <table>
 <tr>
 <td align="center">
-<img src="/images/Cover 1.jpg" width="220"><br>
-ES&T Front Cover (2016 Best Paper Second Runner Up)
+<img src="/images/Cover 1.jpg" width="260"><br>
+ES&T Front Cover<br>
+(2016 Best Paper Second Runner Up)
 </td>
+
 <td align="center">
-<img src="/images/Cover 2.jpg" width="220"><br>
-Zebrafish AOP Network
+<img src="/images/Cover 2.jpg" width="260"><br>
+Functional Genomics Screening<br>
+of Air Pollutants
 </td>
-</tr>
-<tr>
+
 <td align="center">
-<img src="/images/Cover 3.jpg" width="220"><br>
-Daphnia Behavioural Platform
+<img src="/images/Cover 3.jpg" width="260"><br>
+Transcriptomics Assessment<br>
+of Mixtures
 </td>
+
 <td align="center">
-<img src="/images/Cover 4.jpg" width="220"><br>
-Cross-species Toxicity Modelling
+<img src="/images/Cover 4.jpg" width="260"><br>
+Network Modeling<br>
+for Toxicity Prediction
 </td>
 </tr>
 </table>
