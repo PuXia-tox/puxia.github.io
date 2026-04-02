@@ -5,11 +5,8 @@ permalink: /news/
 author_profile: true
 ---
 
-# SHARP Lab News
 
-Latest updates from the lab.
-
----
+<hr style="border: 2px solid #bbb;">
 
 ### 2026.4.2
 Oscar Milward joined the lab as a PhD student.
