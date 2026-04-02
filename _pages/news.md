@@ -28,7 +28,7 @@ New project titled "Towards One Health Framework for Safety Assessment of Emergi
 <hr style="border: 1px solid #bbb;">
 
 ### 2026.3.15
-Zheng Tang joined the lab as a PhD student.\
+Zheng Tang joined the lab as a PhD student.
 
 <hr style="border: 1px solid #bbb;">
 
