@@ -16,7 +16,7 @@ Members
 <table width="100%" style="border: none;">
 <tr valign="top">
 <td width="26%" style="border: none;">
-<img src="/images/portrait.jpg" width="220">
+<img src="/images/portrait.jpg" width="300">
 </td>
 <td width="74%" style="border: none;">
 <h2 style="font-size: 34px; margin-top: 0;">Pu Xia</h2>
@@ -46,7 +46,7 @@ Members
 <table width="100%" style="border: none;">
 <tr valign="top">
 <td width="26%" style="border: none;">
-<img src="/images/member_matthew.jpg" width="220">
+<img src="/images/member_matthew.jpg" width="300">
 </td>
 <td width="74%" style="border: none;">
 <h2 style="font-size: 34px; margin-top: 0;">Matthew Barnard</h2>
@@ -62,7 +62,7 @@ Members
 <table width="100%" style="border: none;">
 <tr valign="top">
 <td width="26%" style="border: none;">
-<img src="/images/member_xing.jpg" width="220">
+<img src="/images/member_xing.jpg" width="300">
 </td>
 <td width="74%" style="border: none;">
 <h2 style="font-size: 34px; margin-top: 0;">Xing Fan</h2>
@@ -78,7 +78,7 @@ Members
 <table width="100%" style="border: none;">
 <tr valign="top">
 <td width="26%" style="border: none;">
-<img src="/images/member_oscar.jpg" width="220">
+<img src="/images/member_oscar.jpg" width="300">
 </td>
 <td width="74%" style="border: none;">
 <h2 style="font-size: 34px; margin-top: 0;">Oscar Milward</h2>
@@ -94,7 +94,7 @@ Members
 <table width="100%" style="border: none;">
 <tr valign="top">
 <td width="26%" style="border: none;">
-<img src="/images/member_zheng.jpg" width="220">
+<img src="/images/member_zheng.jpg" width="300">
 </td>
 <td width="74%" style="border: none;">
 <h2 style="font-size: 34px; margin-top: 0;">Zheng Tang</h2>
@@ -110,7 +110,7 @@ Members
 <table width="100%" style="border: none;">
 <tr valign="top">
 <td width="26%" style="border: none;">
-<img src="/images/member_benjamin.jpg" width="220">
+<img src="/images/member_benjamin.jpg" width="300">
 </td>
 <td width="74%" style="border: none;">
 <h2 style="font-size: 34px; margin-top: 0;">Benjamin Hickey</h2>
