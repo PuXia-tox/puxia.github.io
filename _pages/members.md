@@ -16,30 +16,18 @@ Research interests: systems toxicology, comparative behaviour, NAMs, Omics2AOP
 
 ## Current PhD Students
 ### Matthew Barnard
-CERJ-PARC PhD student  
-Focus: warming waters, One Health ecotoxicology, NJU exchange
+PhD student
+
 
 ### Xing Fan
-PhD student (BBSRC CTP with Unilever)
-Focus: computational toxicology, transcriptomics, BlueBEAR workflows
+PhD student
 
 ### Oscar Milward
-PhD student (EPSRC IDLA with Unilever)
-Focus: computational toxicology, transcriptomics, BlueBEAR workflows
+PhD student
+
 
 ### Zheng Tang
 PhD student  
-Focus: computational toxicology, transcriptomics, BlueBEAR workflows
-
-
-
----
-
-## Collaborators
-- Luisa Orsini (University of Birmingham)
-- Zhiling Guo (University of Birmingham)
-- Knut Erik Tollefsen (NIVA)
-- Jing Guo (Nanjing University)
 
 ---
 
