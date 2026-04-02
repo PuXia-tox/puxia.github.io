@@ -23,10 +23,10 @@ repository               : "PuXia-tox/puxia-tox.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/portrait.jpg"
+  avatar           : "/images/portrait.jpg"
   name             : "Pu Xia"
   pronouns         : "he/him"
-  bio              : "I am an Assistant Professor in the School of Biosciences at the University of Birmingham and CERJ theme leader of Commatting Pollution."
+  bio              : "I am an Assistant Professor in the School of Biosciences at the University of Birmingham and CERJ theme leader of Combatting Pollution."
   location         : "Biringham, UK"
   employer         : "University of Birmingham"
   uri              : "https://www.birmingham.ac.uk/staff/profiles/biosciences/xia-pu"
