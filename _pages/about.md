@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Welcome to the SHARP Lab
+## Welcome to the Systems Hazard Assessment & Risk Prediction (SHARP) Lab
 <p align="center">
 <img src="/images/Front.png" width="1000">
 </p>
