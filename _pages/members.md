@@ -15,83 +15,68 @@ Research interests: systems toxicology, comparative behaviour, NAMs, Omics2AOP
 ---
 
 ## Current PhD Students
+<h1>Current PhD Students</h1>
+
+<hr>
+
 <table width="100%">
-<tr>
+<tr valign="top">
 <td width="28%">
-<!-- <img src="/images/member_matthew.jpg" width="240"> -->
+<img src="/images/member_matthew.jpg" width="240">
 </td>
 <td width="72%" valign="top">
-
-## Matthew Barnard
-**PhD Student**  
-
-Research: aquatic ecotoxicology, behavioural toxicology
-
-Email: mxb1245@student.bham.ac.uk  
-
+<h2>Matthew Barnard</h2>
+<p><strong>PhD Student</strong></p>
+<p>Research: aquatic ecotoxicology, behavioural toxicology</p>
+<p>Email: mxb1245@student.bham.ac.uk</p>
 </td>
 </tr>
 </table>
 
----
-
+<hr>
 
 <table width="100%">
-<tr>
+<tr valign="top">
 <td width="28%">
-<!-- <img src="/images/member_xing.jpg" width="240"> -->
+<img src="/images/member_xing.jpg" width="240">
 </td>
 <td width="72%" valign="top">
-
-## Xing Fan
-**PhD Student**  
-
-Research: computational toxicology, high-throughput transcriptomics
-
-Email: xxf566@student.bham.ac.uk 
-
+<h2>Xing Fan</h2>
+<p><strong>PhD Student</strong></p>
+<p>Research: computational toxicology, high-throughput transcriptomics</p>
+<p>Email: xxf566@student.bham.ac.uk</p>
 </td>
 </tr>
 </table>
 
----
-
+<hr>
 
 <table width="100%">
-<tr>
+<tr valign="top">
 <td width="28%">
-<!-- <img src="/images/member_xing.jpg" width="240"> -->
+<img src="/images/member_oscar.jpg" width="240">
 </td>
 <td width="72%" valign="top">
-
-## Oscar Milward
-**PhD Student**  
-
-Research: computational toxicology, qAOP, cross-species extrapolation
-
-Email: ocm117@student.bham.ac.uk 
-
+<h2>Oscar Milward</h2>
+<p><strong>PhD Student</strong></p>
+<p>Research: computational toxicology, qAOP, cross-species extrapolation</p>
+<p>Email: ocm117@student.bham.ac.uk</p>
 </td>
 </tr>
 </table>
 
----
-
+<hr>
 
 <table width="100%">
-<tr>
+<tr valign="top">
 <td width="28%">
-<!-- <img src="/images/member_xing.jpg" width="240"> -->
+<img src="/images/member_zheng.jpg" width="240">
 </td>
 <td width="72%" valign="top">
-
-## Zheng Tang
-**PhD Student**  
-
-Research: organ-on-chip, neurotoxicology
-
-Email: zxt410@student.bham.ac.uk
-
+<h2>Zheng Tang</h2>
+<p><strong>PhD Student</strong></p>
+<p>Research: organ-on-chip, neurotoxicology</p>
+<p>Email: zxt410@student.bham.ac.uk</p>
 </td>
 </tr>
 </table>
