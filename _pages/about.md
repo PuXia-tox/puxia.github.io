@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## Welcome to the SHARP Lab
 <p align="center">
-<img src="/images/Group Photo-1.jpg" width="500">
+<img src="/images/Group Photo-1.jpg" width="1000">
 </p>
 
 ## *From hidden clues to elegant views.*
@@ -16,7 +16,7 @@ redirect_from:
 <tr valign="top">
 
 <td align="center" width="25%">
-<img src="/images/Cover 1.jpg" height="340"><br>
+<img src="/images/Cover 1.jpg" height="500"><br>
 <div style="height: 80px;">
 ES&T Front Cover<br>
 (2016 Best Paper Second Runner Up)
@@ -24,7 +24,7 @@ ES&T Front Cover<br>
 </td>
 
 <td align="center" width="25%">
-<img src="/images/Cover 2.jpg" height="340"><br>
+<img src="/images/Cover 2.jpg" height="500"><br>
 <div style="height: 80px;">
 Functional Genomics Screening<br>
 of Air Pollutants
@@ -32,7 +32,7 @@ of Air Pollutants
 </td>
 
 <td align="center" width="25%">
-<img src="/images/Cover 3.jpg" height="340"><br>
+<img src="/images/Cover 3.jpg" height="500"><br>
 <div style="height: 80px;">
 Transcriptomics Assessment<br>
 of Mixtures
@@ -40,7 +40,7 @@ of Mixtures
 </td>
 
 <td align="center" width="25%">
-<img src="/images/Cover 4.jpg" height="340"><br>
+<img src="/images/Cover 4.jpg" height="500"><br>
 <div style="height: 80px;">
 Network Modeling<br>
 for Toxicity Prediction
