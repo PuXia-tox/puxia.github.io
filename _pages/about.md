@@ -13,29 +13,39 @@ redirect_from:
 
 ## *From hidden clues to elegant views.*
 <table>
-<tr>
-<td align="center">
-<img src="/images/Cover 1.jpg" height="360"><br>
+<tr valign="top">
+
+<td align="center" width="25%">
+<img src="/images/Cover 1.jpg" height="340"><br>
+<div style="height: 80px;">
 ES&T Front Cover<br>
 (2016 Best Paper Second Runner Up)
+</div>
 </td>
 
-<td align="center">
-<img src="/images/Cover 2.jpg" height="360"><br>
+<td align="center" width="25%">
+<img src="/images/Cover 2.jpg" height="340"><br>
+<div style="height: 80px;">
 Functional Genomics Screening<br>
 of Air Pollutants
+</div>
 </td>
 
-<td align="center">
-<img src="/images/Cover 3.jpg" height="360"><br>
+<td align="center" width="25%">
+<img src="/images/Cover 3.jpg" height="340"><br>
+<div style="height: 80px;">
 Transcriptomics Assessment<br>
 of Mixtures
+</div>
 </td>
 
-<td align="center">
-<img src="/images/Cover 4.jpg" height="360"><br>
+<td align="center" width="25%">
+<img src="/images/Cover 4.jpg" height="340"><br>
+<div style="height: 80px;">
 Network Modeling<br>
 for Toxicity Prediction
+</div>
 </td>
+
 </tr>
 </table>
