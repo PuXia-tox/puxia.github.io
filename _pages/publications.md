@@ -6,7 +6,9 @@ classes: wide
 author_profile: false
 ---
 
-<h1 align="center">Publications</h1>
+<div style="text-align:center; font-size:2.2em; font-weight:700; margin-bottom:30px;">
+Publications
+</div>
 
 (*corresponding author；#co-first author)
 1.	Xia P, Wang P, Liu S, Peng Y, Gou X, Tan H, Guo J, Shi W, Colbourne JK, Giesy JP, Zhang X. Network-Based Assessment of Environmental Neurotoxicants Using High-Throughput Transcriptomics in Zebrafish Embryos. Environ. Sci. Technol. 2026, 60, 11, 8326–8338 (Supplementary Cover)
