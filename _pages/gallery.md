@@ -20,3 +20,13 @@ Gallery
 </p>
 
 <hr style="border: 2px solid #bbb;">
+
+
+
+<h2 style="text-align:center;">Starry, Mat, and Oscar at the BTS Annual Congress 2026, Solihull</h2>
+
+<p align="center">
+<img src="/images/BTS.jpg" width="700">
+</p>
+
+<hr style="border: 2px solid #bbb;">
